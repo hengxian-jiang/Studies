@@ -1,0 +1,3 @@
+[submodule "StrategusStudyRepoTemplate"]
+	path = StrategusStudyRepoTemplate
+	url = https://github.com/ohdsi-studies/StrategusStudyRepoTemplate.git
