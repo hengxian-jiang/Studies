@@ -5,8 +5,8 @@
      "email": "we@data2evidence.care"
   },
   "studyB": {
-     "strategus_json": "./submoduleB/strategus.json",
-     "description": "Sample study description from submodule",
+     "strategus_json": "./StrategusStudyRepoTemplate/inst/sampleStudy/sampleStudyAnalysisSpecification.json",
+     "description": "Sample study description from ohdsi submodule-StrategusStudyRepoTemplate",
      "email": "we@data2evidence.care"
   }
 }
