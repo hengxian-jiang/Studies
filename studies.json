@@ -8,5 +8,10 @@
      "strategus_json": "./StrategusStudyRepoTemplate/inst/sampleStudy/sampleStudyAnalysisSpecification.json",
      "description": "Sample study description from ohdsi submodule-StrategusStudyRepoTemplate",
      "email": "we@data2evidence.care"
+  },
+  "studyC": {
+     "strategus_json": "./notfound",
+     "description": "strategus.json does not exist for this study",
+     "email": "we@data2evidence.care"
   }
 }
