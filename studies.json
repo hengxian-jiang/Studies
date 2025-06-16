@@ -2,7 +2,6 @@
   "studyA": {
      "strategus_json": "./studyA/strategus.json",
      "description": "Sample study description",
-     "email": "we@data2evidence.care"
   },
   "studyB": {
      "strategus_json": "./StrategusStudyRepoTemplate/inst/sampleStudy/sampleStudyAnalysisSpecification.json",
