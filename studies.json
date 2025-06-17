@@ -13,4 +13,9 @@
      "description": "strategus.json does not exist for this study",
      "email": "we@data2evidence.care"
   }
+  "studyD": {
+     "strategus_json": "./notfound",
+     "description": "strategus.json does not exist for this study",
+     "email": "we@data2evidence.care"
+  }
 }
