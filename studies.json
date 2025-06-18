@@ -1,7 +1,7 @@
 {
   "studyA": {
      "strategus_json": "./studyA/strategus.json",
-     "description": "Sample study description"
+     "description": "Sample study description updated"
   },
   "studyB": {
      "strategus_json": "./StrategusStudyRepoTemplate/inst/sampleStudy/sampleStudyAnalysisSpecification.json",
