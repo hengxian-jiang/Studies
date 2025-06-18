@@ -9,7 +9,7 @@
   },
   "studyC": {
      "strategus_json": "./notfound",
-     "description": "strategus.json does not exist for this study",
+     "description": "strategus.json does not exist for this study, test update",
      "email": "we@data2evidence.care"
   },
   "studyD": {
